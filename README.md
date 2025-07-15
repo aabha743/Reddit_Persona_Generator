@@ -17,7 +17,7 @@ A powerful tool that generates detailed user personas from Reddit activity using
 
 - Python 3.8 or higher
 - Reddit API credentials
-- OpenAI API key (for persona generation)
+- Groq key (for persona generation)
 
 ### Installation
 
@@ -38,7 +38,7 @@ Create a `.env` file in the root directory with:
 REDDIT_CLIENT_ID=your_client_id
 REDDIT_CLIENT_SECRET=your_client_secret
 REDDIT_USER_AGENT=your_user_agent
-OPENAI_API_KEY=your_openai_api_key
+API_KEY=your_groq_api_key
 ```
 
 ### Usage
@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments 🙏
 
 - Reddit API
-- OpenAI GPT
+- Groq
 - DiceBear Avatars
 - Streamlit
 - FPDF
