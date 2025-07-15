@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<defs>
+<font id="Roboto-Bold" horiz-adv-x="1000">
+<font-face font-family="Roboto" font-weight="700" font-stretch="normal" units-per-em="1000" panose-1="2 0 0 0 0 0 0 0 0 0" ascent="800" descent="-200" x-height="528" cap-height="711" bbox="-73 -271 1047 928" underline-thickness="50" underline-position="-100" unicode-range="U+0020-U+FB02"/>
+<missing-glyph horiz-adv-x="500" d="M63 0v800h375v-800h-375zM125 63h250v675h-250v-675z"/>
+<glyph unicode=" " horiz-adv-x="248"/>
+<glyph unicode="!" horiz-adv-x="298" d="M205 699l-56 -437h-52l-56 437h164zM149 0h-52v164h52v-164z"/>
+</font>
+</defs>
+</svg>
